@@ -32,6 +32,8 @@ e. The extension will be installed now.
 
 #### 7 Now a popup will be displayed asking for access for camera and microphone.
 
+<img src='./img/8.png' alt='Intro Screen' width="80%">
+
 #### 8 Now the window will open in full screen mode and exam will get started.
 
 <img src='./img/2.png' alt='Intro Screen' width="80%">
