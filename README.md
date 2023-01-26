@@ -73,4 +73,5 @@ e. The extension will be installed now.
 
 #### 13 Once an exam gets completed, the user can end the exam by clicking the end exam button and an alert will be shown showing the exam completed successfully.
 
+<img src='./img/10.png' alt='Intro Screen' width="80%">
 
