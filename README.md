@@ -1,6 +1,25 @@
-# Procto Exam Extension
+# ProctoExam Extension
+
+ProctoExam - A fully automated proctoring.
+ProctoExam is dedicated to providing you with the finest test-taking experience possible while maintaining the integrity of your exam so that everyone has a fair chance to perform at their best.
 
 This extension is developed using JavaScript as backend and HTML/CSS as frontend.
+
+# Features
+
+The following features are added in the extension
+
+- [x] Extension should work only in selected URLs(test page) during a certain time/trigger.
+- [x] The browser should open in full screen mode.
+- [x] Pop-up should be shown when someone switches between 2 tabs or applications.
+- [x] More than one tab can’t be opened.
+- [x] Users should not be able to close the tab with the normal close button [shortcut keys should not work too]. (User should only be able to close tab by clicking on “End Test” Button)
+- [x] Should do requirement check initially when extension is activated:
+    - [x] a. Audio
+    - [x] b. Camera
+    - [x] c. Internet Stability
+- [x] Capture the user-related information in local storage.(requirements check)
+
 
 # Detailed steps to set up the project.
 
@@ -18,7 +37,7 @@ c. Now, Enable developer mode\
 d. Click on Load Unpacked and select your Unzip folder.\
 e. The extension will be installed now.
 
-#### 3 Go to https://www.javatpoint.com/java-mcq Since in the assignment it was asked that the extension should work, a selected url.
+#### 3 Go to https://www.javatpoint.com/java-mcq , since for now it works only for the selected url(which can be customised in the code).
 
 #### 4 If a user tries to use the extension on a different page, then the following alert will get displayed.
 
@@ -54,29 +73,4 @@ e. The extension will be installed now.
 
 #### 13 Once an exam gets completed, the user can end the exam by clicking the end exam button and an alert will be shown showing the exam completed successfully.
 
-# Features
-
-The following features are added in the extension
-
-
-
-- [x] Extension should work only in selected URLs(test page) during a certain time/trigger.
-
-- [x] The browser should open in full screen mode.
-
-- [x] Pop-up should be shown when someone switches between 2 tabs or applications.
-
-- [x]     More than one tab can’t be opened.
-
-- [x] Users should not be able to close the tab with the normal close button [shortcut keys should not work too]. (User should only be able to close tab by clicking on “End Test” Button)
-
-- [x] Should do requirement check initially when extension is activated:
-
-    - [x] Audio
-
-    - [x] b.Camera
-
-    - [x] c.Internet Stability
-
-- [x] Capture the user-related information in local storage.(requirements check)
 
