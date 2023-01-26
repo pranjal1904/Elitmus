@@ -1,0 +1,16 @@
+body {
+    background: #f1f5f9;
+}
+.wrapper {
+    width: 450px;
+    /* text-align: center; */
+}
+.startExam {
+    width: 100px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background-color: #facc15;
+    cursor: pointer;
+}
