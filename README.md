@@ -3,9 +3,13 @@
 This extension is devloped using javascript as backend and HTML/CSS  as frountend.
 
 # Detailed steps to set up the project.
+
 #### 1 Clone project from github
+
 <img src='./img/0.png' alt='Intro Screen' width="80%">
+
 #### 2 Install the unpacked extension in Chrome 
+
 To install extension manually you need to unzip the extension first. Follow the steps to load the unpacked extension.
 
 a. Go to Chrome Settings using three dots on the top right corner.\
